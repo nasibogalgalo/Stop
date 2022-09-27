@@ -4,4 +4,6 @@
 
 ### learning javascript
 
-## ::smile
+##     😉
+
+#### 🥇
