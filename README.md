@@ -4,4 +4,4 @@
 
 ### learning javascript
 
-## :smile
+## ::smile
